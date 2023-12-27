@@ -1,0 +1,150 @@
+E:\001 Kuliah\SEMESTER 3\Pemrograman Lanjut\FP\Login\bin\Debug\Login.exe.config
+E:\001 Kuliah\SEMESTER 3\Pemrograman Lanjut\FP\Login\bin\Debug\Login.exe
+E:\001 Kuliah\SEMESTER 3\Pemrograman Lanjut\FP\Login\bin\Debug\Login.pdb
+E:\001 Kuliah\SEMESTER 3\Pemrograman Lanjut\FP\Login\obj\Debug\Login.csproj.AssemblyReference.cache
+E:\001 Kuliah\SEMESTER 3\Pemrograman Lanjut\FP\Login\obj\Debug\Login.csproj.SuggestedBindingRedirects.cache
+E:\001 Kuliah\SEMESTER 3\Pemrograman Lanjut\FP\Login\obj\Debug\Login.frmLogin.resources
+E:\001 Kuliah\SEMESTER 3\Pemrograman Lanjut\FP\Login\obj\Debug\Login.Properties.Resources.resources
+E:\001 Kuliah\SEMESTER 3\Pemrograman Lanjut\FP\Login\obj\Debug\Login.csproj.GenerateResource.cache
+E:\001 Kuliah\SEMESTER 3\Pemrograman Lanjut\FP\Login\obj\Debug\Login.csproj.CoreCompileInputs.cache
+E:\001 Kuliah\SEMESTER 3\Pemrograman Lanjut\FP\Login\obj\Debug\Login.exe
+E:\001 Kuliah\SEMESTER 3\Pemrograman Lanjut\FP\Login\obj\Debug\Login.pdb
+E:\001 Kuliah\SEMESTER 3\Pemrograman Lanjut\FP\Login\obj\Debug\Login.frmHome.resources
+E:\001 Kuliah\SEMESTER 3\Pemrograman Lanjut\FP\Login\obj\Debug\Login.frmDataBrg.resources
+E:\001 Kuliah\SEMESTER 3\Pemrograman Lanjut\FP\Login\obj\Debug\Login.frmInputDataBrg.resources
+E:\001 Kuliah\SEMESTER 3\Pemrograman Lanjut\FP\Login\obj\Debug\Login.frmUpStock.resources
+E:\001 Kuliah\SEMESTER 3\Pemrograman Lanjut\FP\Login\obj\Debug\Login.frmInputUpStock.resources
+E:\001 Kuliah\SEMESTER 3\Pemrograman Lanjut\FP\Login\obj\Debug\Login.frmSupplier.resources
+E:\001 Kuliah\SEMESTER 3\Pemrograman Lanjut\FP\Login\obj\Debug\Login.frmInputSup.resources
+E:\001 Kuliah\SEMESTER 3\Pemrograman Lanjut\FP\Login\obj\Debug\Login.frmDataDistri.resources
+E:\001 Kuliah\SEMESTER 3\Pemrograman Lanjut\FP\Login\obj\Debug\Login.frmInputDistri.resources
+E:\001 Kuliah\SEMESTER 3\Pemrograman Lanjut\FP\Login\obj\Debug\Login.frmTransIN.resources
+E:\001 Kuliah\SEMESTER 3\Pemrograman Lanjut\FP\Login\obj\Debug\Login.frmInputTransIn.resources
+E:\001 Kuliah\SEMESTER 3\Pemrograman Lanjut\FP\Login\obj\Debug\Login.frmTransOUT.resources
+E:\001 Kuliah\SEMESTER 3\Pemrograman Lanjut\FP\Login\obj\Debug\Login.frmInputTransOut.resources
+E:\001 Kuliah\SEMESTER 3\Pemrograman Lanjut\FP - Copy\Login\bin\Debug\Login.exe.config
+E:\001 Kuliah\SEMESTER 3\Pemrograman Lanjut\FP - Copy\Login\bin\Debug\Login.exe
+E:\001 Kuliah\SEMESTER 3\Pemrograman Lanjut\FP - Copy\Login\bin\Debug\Login.pdb
+E:\001 Kuliah\SEMESTER 3\Pemrograman Lanjut\FP - Copy\Login\obj\Debug\Login.csproj.AssemblyReference.cache
+E:\001 Kuliah\SEMESTER 3\Pemrograman Lanjut\FP - Copy\Login\obj\Debug\Login.csproj.SuggestedBindingRedirects.cache
+E:\001 Kuliah\SEMESTER 3\Pemrograman Lanjut\FP - Copy\Login\obj\Debug\Login.frmLogin.resources
+E:\001 Kuliah\SEMESTER 3\Pemrograman Lanjut\FP - Copy\Login\obj\Debug\Login.frmInputDistri.resources
+E:\001 Kuliah\SEMESTER 3\Pemrograman Lanjut\FP - Copy\Login\obj\Debug\Login.frmTransIN.resources
+E:\001 Kuliah\SEMESTER 3\Pemrograman Lanjut\FP - Copy\Login\obj\Debug\Login.frmInputTransIn.resources
+E:\001 Kuliah\SEMESTER 3\Pemrograman Lanjut\FP - Copy\Login\obj\Debug\Login.frmTransOUT.resources
+E:\001 Kuliah\SEMESTER 3\Pemrograman Lanjut\FP - Copy\Login\obj\Debug\Login.frmInputTransOut.resources
+E:\001 Kuliah\SEMESTER 3\Pemrograman Lanjut\FP - Copy\Login\obj\Debug\Login.frmHome.resources
+E:\001 Kuliah\SEMESTER 3\Pemrograman Lanjut\FP - Copy\Login\obj\Debug\Login.frmDataBrg.resources
+E:\001 Kuliah\SEMESTER 3\Pemrograman Lanjut\FP - Copy\Login\obj\Debug\Login.frmInputDataBrg.resources
+E:\001 Kuliah\SEMESTER 3\Pemrograman Lanjut\FP - Copy\Login\obj\Debug\Login.frmUpStock.resources
+E:\001 Kuliah\SEMESTER 3\Pemrograman Lanjut\FP - Copy\Login\obj\Debug\Login.frmInputUpStock.resources
+E:\001 Kuliah\SEMESTER 3\Pemrograman Lanjut\FP - Copy\Login\obj\Debug\Login.frmSupplier.resources
+E:\001 Kuliah\SEMESTER 3\Pemrograman Lanjut\FP - Copy\Login\obj\Debug\Login.frmInputSup.resources
+E:\001 Kuliah\SEMESTER 3\Pemrograman Lanjut\FP - Copy\Login\obj\Debug\Login.frmDataDistri.resources
+E:\001 Kuliah\SEMESTER 3\Pemrograman Lanjut\FP - Copy\Login\obj\Debug\Login.Properties.Resources.resources
+E:\001 Kuliah\SEMESTER 3\Pemrograman Lanjut\FP - Copy\Login\obj\Debug\Login.csproj.GenerateResource.cache
+E:\001 Kuliah\SEMESTER 3\Pemrograman Lanjut\FP - Copy\Login\obj\Debug\Login.csproj.CoreCompileInputs.cache
+E:\001 Kuliah\SEMESTER 3\Pemrograman Lanjut\FP - Copy\Login\obj\Debug\Login.exe
+E:\001 Kuliah\SEMESTER 3\Pemrograman Lanjut\FP - Copy\Login\obj\Debug\Login.pdb
+E:\001 Kuliah\SEMESTER 3\Pemrograman Lanjut\FP - Copy\Login\bin\Debug\System.Data.SQLite.dll
+E:\001 Kuliah\SEMESTER 3\Pemrograman Lanjut\FP - Copy\Login\bin\Debug\System.Data.SQLite.xml
+E:\001 Kuliah\SEMESTER 3\Pemrograman Lanjut\FP - Copy\Login\obj\Debug\Login.csproj.CopyComplete
+E:\001 Kuliah\SEMESTER 3\Pemrograman Lanjut\FP - Copy\Login\bin\Debug\BouncyCastle.Cryptography.dll
+E:\001 Kuliah\SEMESTER 3\Pemrograman Lanjut\FP - Copy\Login\bin\Debug\Google.Protobuf.dll
+E:\001 Kuliah\SEMESTER 3\Pemrograman Lanjut\FP - Copy\Login\bin\Debug\K4os.Compression.LZ4.dll
+E:\001 Kuliah\SEMESTER 3\Pemrograman Lanjut\FP - Copy\Login\bin\Debug\K4os.Compression.LZ4.Streams.dll
+E:\001 Kuliah\SEMESTER 3\Pemrograman Lanjut\FP - Copy\Login\bin\Debug\K4os.Hash.xxHash.dll
+E:\001 Kuliah\SEMESTER 3\Pemrograman Lanjut\FP - Copy\Login\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+E:\001 Kuliah\SEMESTER 3\Pemrograman Lanjut\FP - Copy\Login\bin\Debug\MySql.Data.dll
+E:\001 Kuliah\SEMESTER 3\Pemrograman Lanjut\FP - Copy\Login\bin\Debug\NuGet.Frameworks.dll
+E:\001 Kuliah\SEMESTER 3\Pemrograman Lanjut\FP - Copy\Login\bin\Debug\System.Buffers.dll
+E:\001 Kuliah\SEMESTER 3\Pemrograman Lanjut\FP - Copy\Login\bin\Debug\System.Configuration.ConfigurationManager.dll
+E:\001 Kuliah\SEMESTER 3\Pemrograman Lanjut\FP - Copy\Login\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+E:\001 Kuliah\SEMESTER 3\Pemrograman Lanjut\FP - Copy\Login\bin\Debug\System.IO.Pipelines.dll
+E:\001 Kuliah\SEMESTER 3\Pemrograman Lanjut\FP - Copy\Login\bin\Debug\System.Memory.dll
+E:\001 Kuliah\SEMESTER 3\Pemrograman Lanjut\FP - Copy\Login\bin\Debug\System.Numerics.Vectors.dll
+E:\001 Kuliah\SEMESTER 3\Pemrograman Lanjut\FP - Copy\Login\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\001 Kuliah\SEMESTER 3\Pemrograman Lanjut\FP - Copy\Login\bin\Debug\System.Threading.Tasks.Extensions.dll
+E:\001 Kuliah\SEMESTER 3\Pemrograman Lanjut\FP - Copy\Login\bin\Debug\ZstdSharp.dll
+E:\001 Kuliah\SEMESTER 3\Pemrograman Lanjut\FP - Copy\Login\bin\Debug\BouncyCastle.Cryptography.xml
+E:\001 Kuliah\SEMESTER 3\Pemrograman Lanjut\FP - Copy\Login\bin\Debug\Google.Protobuf.pdb
+E:\001 Kuliah\SEMESTER 3\Pemrograman Lanjut\FP - Copy\Login\bin\Debug\Google.Protobuf.xml
+E:\001 Kuliah\SEMESTER 3\Pemrograman Lanjut\FP - Copy\Login\bin\Debug\K4os.Compression.LZ4.xml
+E:\001 Kuliah\SEMESTER 3\Pemrograman Lanjut\FP - Copy\Login\bin\Debug\K4os.Compression.LZ4.Streams.xml
+E:\001 Kuliah\SEMESTER 3\Pemrograman Lanjut\FP - Copy\Login\bin\Debug\K4os.Hash.xxHash.xml
+E:\001 Kuliah\SEMESTER 3\Pemrograman Lanjut\FP - Copy\Login\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+E:\001 Kuliah\SEMESTER 3\Pemrograman Lanjut\FP - Copy\Login\bin\Debug\MySql.Data.xml
+E:\001 Kuliah\SEMESTER 3\Pemrograman Lanjut\FP - Copy\Login\bin\Debug\System.Buffers.xml
+E:\001 Kuliah\SEMESTER 3\Pemrograman Lanjut\FP - Copy\Login\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+E:\001 Kuliah\SEMESTER 3\Pemrograman Lanjut\FP - Copy\Login\bin\Debug\System.IO.Pipelines.xml
+E:\001 Kuliah\SEMESTER 3\Pemrograman Lanjut\FP - Copy\Login\bin\Debug\System.Memory.xml
+E:\001 Kuliah\SEMESTER 3\Pemrograman Lanjut\FP - Copy\Login\bin\Debug\System.Numerics.Vectors.xml
+E:\001 Kuliah\SEMESTER 3\Pemrograman Lanjut\FP - Copy\Login\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\001 Kuliah\SEMESTER 3\Pemrograman Lanjut\FP - Copy\Login\bin\Debug\System.Threading.Tasks.Extensions.xml
+E:\001 Kuliah\SEMESTER 3\Pemrograman Lanjut\FP - Copy\Login\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+E:\001 Kuliah\SEMESTER 3\Pemrograman Lanjut\FP - Copy\Login\bin\Debug\MySqlConnector.dll
+E:\001 Kuliah\SEMESTER 3\Pemrograman Lanjut\FP - Copy\Login\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+E:\001 Kuliah\SEMESTER 3\Pemrograman Lanjut\FP - Copy\Login\bin\Debug\MySqlConnector.xml
+E:\001 Kuliah\SEMESTER 3\Pemrograman Lanjut\FP_ini aja\Login\bin\Debug\Login.exe.config
+E:\001 Kuliah\SEMESTER 3\Pemrograman Lanjut\FP_ini aja\Login\bin\Debug\Login.exe
+E:\001 Kuliah\SEMESTER 3\Pemrograman Lanjut\FP_ini aja\Login\bin\Debug\Login.pdb
+E:\001 Kuliah\SEMESTER 3\Pemrograman Lanjut\FP_ini aja\Login\bin\Debug\BouncyCastle.Cryptography.dll
+E:\001 Kuliah\SEMESTER 3\Pemrograman Lanjut\FP_ini aja\Login\bin\Debug\Google.Protobuf.dll
+E:\001 Kuliah\SEMESTER 3\Pemrograman Lanjut\FP_ini aja\Login\bin\Debug\K4os.Compression.LZ4.dll
+E:\001 Kuliah\SEMESTER 3\Pemrograman Lanjut\FP_ini aja\Login\bin\Debug\K4os.Compression.LZ4.Streams.dll
+E:\001 Kuliah\SEMESTER 3\Pemrograman Lanjut\FP_ini aja\Login\bin\Debug\K4os.Hash.xxHash.dll
+E:\001 Kuliah\SEMESTER 3\Pemrograman Lanjut\FP_ini aja\Login\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+E:\001 Kuliah\SEMESTER 3\Pemrograman Lanjut\FP_ini aja\Login\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+E:\001 Kuliah\SEMESTER 3\Pemrograman Lanjut\FP_ini aja\Login\bin\Debug\MySql.Data.dll
+E:\001 Kuliah\SEMESTER 3\Pemrograman Lanjut\FP_ini aja\Login\bin\Debug\MySqlConnector.dll
+E:\001 Kuliah\SEMESTER 3\Pemrograman Lanjut\FP_ini aja\Login\bin\Debug\NuGet.Frameworks.dll
+E:\001 Kuliah\SEMESTER 3\Pemrograman Lanjut\FP_ini aja\Login\bin\Debug\System.Buffers.dll
+E:\001 Kuliah\SEMESTER 3\Pemrograman Lanjut\FP_ini aja\Login\bin\Debug\System.Configuration.ConfigurationManager.dll
+E:\001 Kuliah\SEMESTER 3\Pemrograman Lanjut\FP_ini aja\Login\bin\Debug\System.Data.SQLite.dll
+E:\001 Kuliah\SEMESTER 3\Pemrograman Lanjut\FP_ini aja\Login\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+E:\001 Kuliah\SEMESTER 3\Pemrograman Lanjut\FP_ini aja\Login\bin\Debug\System.IO.Pipelines.dll
+E:\001 Kuliah\SEMESTER 3\Pemrograman Lanjut\FP_ini aja\Login\bin\Debug\System.Memory.dll
+E:\001 Kuliah\SEMESTER 3\Pemrograman Lanjut\FP_ini aja\Login\bin\Debug\System.Numerics.Vectors.dll
+E:\001 Kuliah\SEMESTER 3\Pemrograman Lanjut\FP_ini aja\Login\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\001 Kuliah\SEMESTER 3\Pemrograman Lanjut\FP_ini aja\Login\bin\Debug\System.Threading.Tasks.Extensions.dll
+E:\001 Kuliah\SEMESTER 3\Pemrograman Lanjut\FP_ini aja\Login\bin\Debug\ZstdSharp.dll
+E:\001 Kuliah\SEMESTER 3\Pemrograman Lanjut\FP_ini aja\Login\bin\Debug\BouncyCastle.Cryptography.xml
+E:\001 Kuliah\SEMESTER 3\Pemrograman Lanjut\FP_ini aja\Login\bin\Debug\Google.Protobuf.pdb
+E:\001 Kuliah\SEMESTER 3\Pemrograman Lanjut\FP_ini aja\Login\bin\Debug\Google.Protobuf.xml
+E:\001 Kuliah\SEMESTER 3\Pemrograman Lanjut\FP_ini aja\Login\bin\Debug\K4os.Compression.LZ4.xml
+E:\001 Kuliah\SEMESTER 3\Pemrograman Lanjut\FP_ini aja\Login\bin\Debug\K4os.Compression.LZ4.Streams.xml
+E:\001 Kuliah\SEMESTER 3\Pemrograman Lanjut\FP_ini aja\Login\bin\Debug\K4os.Hash.xxHash.xml
+E:\001 Kuliah\SEMESTER 3\Pemrograman Lanjut\FP_ini aja\Login\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+E:\001 Kuliah\SEMESTER 3\Pemrograman Lanjut\FP_ini aja\Login\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+E:\001 Kuliah\SEMESTER 3\Pemrograman Lanjut\FP_ini aja\Login\bin\Debug\MySql.Data.xml
+E:\001 Kuliah\SEMESTER 3\Pemrograman Lanjut\FP_ini aja\Login\bin\Debug\MySqlConnector.xml
+E:\001 Kuliah\SEMESTER 3\Pemrograman Lanjut\FP_ini aja\Login\bin\Debug\System.Buffers.xml
+E:\001 Kuliah\SEMESTER 3\Pemrograman Lanjut\FP_ini aja\Login\bin\Debug\System.Data.SQLite.xml
+E:\001 Kuliah\SEMESTER 3\Pemrograman Lanjut\FP_ini aja\Login\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+E:\001 Kuliah\SEMESTER 3\Pemrograman Lanjut\FP_ini aja\Login\bin\Debug\System.IO.Pipelines.xml
+E:\001 Kuliah\SEMESTER 3\Pemrograman Lanjut\FP_ini aja\Login\bin\Debug\System.Memory.xml
+E:\001 Kuliah\SEMESTER 3\Pemrograman Lanjut\FP_ini aja\Login\bin\Debug\System.Numerics.Vectors.xml
+E:\001 Kuliah\SEMESTER 3\Pemrograman Lanjut\FP_ini aja\Login\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\001 Kuliah\SEMESTER 3\Pemrograman Lanjut\FP_ini aja\Login\bin\Debug\System.Threading.Tasks.Extensions.xml
+E:\001 Kuliah\SEMESTER 3\Pemrograman Lanjut\FP_ini aja\Login\obj\Debug\Login.csproj.AssemblyReference.cache
+E:\001 Kuliah\SEMESTER 3\Pemrograman Lanjut\FP_ini aja\Login\obj\Debug\Login.csproj.SuggestedBindingRedirects.cache
+E:\001 Kuliah\SEMESTER 3\Pemrograman Lanjut\FP_ini aja\Login\obj\Debug\Login.frmLogin.resources
+E:\001 Kuliah\SEMESTER 3\Pemrograman Lanjut\FP_ini aja\Login\obj\Debug\Login.frmInputDistri.resources
+E:\001 Kuliah\SEMESTER 3\Pemrograman Lanjut\FP_ini aja\Login\obj\Debug\Login.frmTransIN.resources
+E:\001 Kuliah\SEMESTER 3\Pemrograman Lanjut\FP_ini aja\Login\obj\Debug\Login.frmInputTransIn.resources
+E:\001 Kuliah\SEMESTER 3\Pemrograman Lanjut\FP_ini aja\Login\obj\Debug\Login.frmTransOUT.resources
+E:\001 Kuliah\SEMESTER 3\Pemrograman Lanjut\FP_ini aja\Login\obj\Debug\Login.frmInputTransOut.resources
+E:\001 Kuliah\SEMESTER 3\Pemrograman Lanjut\FP_ini aja\Login\obj\Debug\Login.frmHome.resources
+E:\001 Kuliah\SEMESTER 3\Pemrograman Lanjut\FP_ini aja\Login\obj\Debug\Login.frmDataBrg.resources
+E:\001 Kuliah\SEMESTER 3\Pemrograman Lanjut\FP_ini aja\Login\obj\Debug\Login.frmInputDataBrg.resources
+E:\001 Kuliah\SEMESTER 3\Pemrograman Lanjut\FP_ini aja\Login\obj\Debug\Login.frmUpStock.resources
+E:\001 Kuliah\SEMESTER 3\Pemrograman Lanjut\FP_ini aja\Login\obj\Debug\Login.frmInputUpStock.resources
+E:\001 Kuliah\SEMESTER 3\Pemrograman Lanjut\FP_ini aja\Login\obj\Debug\Login.frmSupplier.resources
+E:\001 Kuliah\SEMESTER 3\Pemrograman Lanjut\FP_ini aja\Login\obj\Debug\Login.frmInputSup.resources
+E:\001 Kuliah\SEMESTER 3\Pemrograman Lanjut\FP_ini aja\Login\obj\Debug\Login.frmDataDistri.resources
+E:\001 Kuliah\SEMESTER 3\Pemrograman Lanjut\FP_ini aja\Login\obj\Debug\Login.Properties.Resources.resources
+E:\001 Kuliah\SEMESTER 3\Pemrograman Lanjut\FP_ini aja\Login\obj\Debug\Login.csproj.GenerateResource.cache
+E:\001 Kuliah\SEMESTER 3\Pemrograman Lanjut\FP_ini aja\Login\obj\Debug\Login.csproj.CoreCompileInputs.cache
+E:\001 Kuliah\SEMESTER 3\Pemrograman Lanjut\FP_ini aja\Login\obj\Debug\Login.csproj.CopyComplete
+E:\001 Kuliah\SEMESTER 3\Pemrograman Lanjut\FP_ini aja\Login\obj\Debug\Login.exe
+E:\001 Kuliah\SEMESTER 3\Pemrograman Lanjut\FP_ini aja\Login\obj\Debug\Login.pdb
